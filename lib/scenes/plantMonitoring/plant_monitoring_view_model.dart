@@ -1,5 +1,3 @@
-// plant_monitoring_view_model.dart
-
 import 'package:flutter/foundation.dart';
 import 'plant_monitoring_service.dart';
 import 'plant_models.dart';
