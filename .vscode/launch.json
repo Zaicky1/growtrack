@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "GrowTrack",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/Application/main.dart",
+      "console": "debugConsole",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
